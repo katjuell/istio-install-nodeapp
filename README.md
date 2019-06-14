@@ -1,1 +1,1 @@
-Istio installation plus Gateways/Virtual Services to run minimal Node.js app
+Code for tutorial [How to Install and Use Istio](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-istio) that covers how to install Istio with Helm and how to create Gateway and Virtual Service resources to run minimal Node.js app.
