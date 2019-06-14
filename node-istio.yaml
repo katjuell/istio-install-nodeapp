@@ -26,5 +26,3 @@ spec:
   - route:
     - destination:
         host: nodejs
-        port:
-          number: 8080
